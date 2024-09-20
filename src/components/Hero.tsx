@@ -7,15 +7,15 @@ export const Hero = () => {
 		<div className="relative container flex items-center justify-center gap-8 flex-col">
 			<a href="#" className="border py-1 px-2 rounded-lg border-slate-300/30 inline-flex gap-1"><span className="">Version 2.0 is here. </span><span className="inline-flex items-center gap-1"><span>Read More</span><span><ArrowRightIcon /></span></span></a>
 			<div className="inline-flex relative">
-			<h1 className="text-7xl max-w-xs sm:text-9xl sm:max-w-lg tracking-tighter text-center">One Task at a Time</h1>
-			<div className="absolute scale-150 -rotate-6  hidden sm:inline">
+			<h1 className="text-6xl max-w-sm sm:text-8xl sm:max-w-xl tracking-tighter text-center">Super Cool Cool Slogan</h1>
+			<div className="absolute scale-150 left-7 -rotate-6  hidden sm:inline">
 				<Logo />
 			</div>		
 			<div className="right-0 scale-150 top-28 absolute rotate-12  hidden sm:inline">
 				<Logo />
 			</div>
 			</div>
-			<p className="text-center text-xl tracking-tighter max-w-md">Celebrate the joy of accomplishment with an app designed to track your progress, motivate your efforts, and celebrate your successes.</p>
+			<p className="text-center text-xl tracking-tighter max-w-md">At the time, my life just seemed too complete, and maybe we have to break everything to make something better out of ourselves.</p>
 			<button className="bg-slate-200 text-black px-5 py-3 rounded-md font-medium">Get for free</button>
 		</div>
 		</div>

@@ -7,6 +7,8 @@ import {LogoTicker} from "@/components/LogoTicker"
 import {Features} from "@/components/Features"
 import {Showcase} from "@/components/Showcase"
 import {FAQs} from "@/components/FAQs"
+import {CTA} from "@/components/CTA"
+import {Footer} from "@/components/Footer"
 
 export default function Home() {
   return (
@@ -18,7 +20,7 @@ export default function Home() {
 		<Features />
 		<Showcase />
 		<FAQs />
-		<Button variant="outline">My Chemical Romance</Button>
+		<Footer />
 	  </>
   );
 }

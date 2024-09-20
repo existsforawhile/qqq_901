@@ -8,21 +8,21 @@ export const Features = () => {
 			<p className="text-center mt-5 text-xl text-white/70">Enjoy customizable lists, team work tools, and smart tracking all in one place. Set tasks, get reminders, and see your progress simply and quickly.</p>
 			</div>
 			<div className="mt-16 flex flex-col sm:flex-row gap-4">
-								<div className="flex-1 border border-white/30 px-5 py-10 text-center rounded-lg">
+								<div className="flex-1 border border-slate-300/20 px-5 py-10 text-center rounded-lg">
 					<div className="inline-flex mx-auto h-14 text-black rounded-lg w-14 bg-white justify-center items-center">
 						<FaceIcon />
 					</div>
 					<h3 className="mt-6 font-bold">Integration Ecosystem</h3>
 					<p className="mt-2 text-white/70">Enhance your productivity by connecting with your tools, keeping your essentials in one place.</p>
 				</div>
-<div className="flex-1 border border-white/30 px-5 py-10 text-center rounded-lg">
+<div className="flex-1 border border-slate-300/20 px-5 py-10 text-center rounded-lg">
 					<div className="inline-flex mx-auto h-14 text-black rounded-lg w-14 bg-white justify-center items-center">
 						<FaceIcon />
 					</div>
 					<h3 className="mt-6 font-bold">Integration Ecosystem</h3>
 					<p className="mt-2 text-white/70">Enhance your productivity by connecting with your tools, keeping your essentials in one place.</p>
 				</div>
-<div className="flex-1 border border-white/30 px-5 py-10 text-center rounded-lg">
+<div className="flex-1 border border-slate-300/20 px-5 py-10 text-center rounded-lg">
 					<div className="inline-flex mx-auto h-14 text-black rounded-lg w-14 bg-white justify-center items-center">
 						<FaceIcon />
 					</div>
